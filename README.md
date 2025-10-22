@@ -1,4 +1,4 @@
-
+<img width="1910" height="916" alt="image" src="https://github.com/user-attachments/assets/b8768129-d009-498c-a3c6-0d26896db2b0" />
 # Aventdor Responsive Car Website
 
 This is a responsive car website project showcasing the Aventdor model. It features modern design, interactive elements, and adapts to various screen sizes.
@@ -14,7 +14,9 @@ This is a responsive car website project showcasing the Aventdor model. It featu
 
 
 ### Information Section
-![Uploading image.png…]()
+<img width="1912" height="913" alt="image" src="https://github.com/user-attachments/assets/7de70feb-7c5f-4938-84cf-caf1b4086198" />
+
+
 
 
 ## Features
