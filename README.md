@@ -6,13 +6,16 @@ This is a responsive car website project showcasing the Aventdor model. It featu
 ## Demo Screenshots
 
 ### Home Section
-![Home Section](https://user-images.githubusercontent.com/placeholder/home-section.png)
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/d44fe877-648c-4753-95c7-5352cf5d832b" />
+
 
 ### About Section
-![About Section](https://user-images.githubusercontent.com/placeholder/about-section.png)
+<img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/dedb3282-94b8-4f3b-aedb-ec3d3f3049dd" />
+
 
 ### Information Section
-![Information Section](https://user-images.githubusercontent.com/placeholder/information-section.png)
+![Uploading image.png…]()
+
 
 ## Features
 - Responsive layout for mobile, tablet, and desktop
