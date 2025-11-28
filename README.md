@@ -1,8 +1,7 @@
 # 🚗 Aventador — Luxury Car Portfolio (Small Build \#7)
 
-\<p align="center"\>
-\<img src="assets/img/home-car-1.png" alt="Aventador Hero Image" width="100%" /\>
-\</p\>
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_fbnlx0fbnlx0fbnl" src="https://github.com/user-attachments/assets/93d4c96c-7ff4-410a-903f-c7a21ef55eb5" />
 
 A premium, fully responsive automotive landing page designed to showcase luxury vehicles with immersive animations and smooth interactions. Built with semantic HTML, modern CSS, and JavaScript libraries to deliver a high-end user experience.
 
